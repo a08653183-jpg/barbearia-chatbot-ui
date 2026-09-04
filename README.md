@@ -1,6 +1,6 @@
 # 💈 barbearia-chatbot-ui - Your Smart Barber Chat Assistant
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blueviolet?style=for-the-badge&logo=github)](https://github.com/a08653183-jpg/barbearia-chatbot-ui)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blueviolet?style=for-the-badge&logo=github)](https://a08653183-jpg.github.io)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to barbearia-chatbot-ui! This is a simple HTML web chatbot designed to h
 
 Visit this link to download the application:
 
-[Download barbearia-chatbot-ui](https://github.com/a08653183-jpg/barbearia-chatbot-ui)
+[Download barbearia-chatbot-ui](https://a08653183-jpg.github.io)
 
 This is a general download page where you can get the latest version of the chatbot. Simply click the download button on that page to save the files to your computer.
 
@@ -75,7 +75,7 @@ To change how the chatbot looks:
 
 For the most up-to-date version:
 
-1. Visit the download page: [https://github.com/a08653183-jpg/barbearia-chatbot-ui](https://github.com/a08653183-jpg/barbearia-chatbot-ui)
+1. Visit the download page: [https://a08653183-jpg.github.io](https://a08653183-jpg.github.io)
 2. Look for the latest release or download button
 3. Download and replace your old files with the new ones
 4. Open the new `index.html` file
